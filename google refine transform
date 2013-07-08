@@ -1,0 +1,1099 @@
+[
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Emp. Razon Social",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Emp. Razon Social",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ATENTO CHILE S.A.",
+          "ATENTO CHILE SA",
+          "ATENTO CHILE S.A",
+          "ATENTO CHILE  S.A.",
+          "ATENTO CHILE S.A.-",
+          "ATENTO CHILE S,A,"
+        ],
+        "to": "ATENTO CHILE S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ABARROTES ECONOMICOS S.A.",
+          "ABARROTES ECONOMICOS SA",
+          "ABARROTES ECONOMICOS S.A",
+          "ABARROTES ECONOMICOS S.A ",
+          "ABARROTES ECONÓMICOS S.A."
+        ],
+        "to": "ABARROTES ECONOMICOS S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ANN  ARBOR  FOODS  S.A.",
+          "ANN ARBOR FOODS S.A.",
+          "ANN ARBOR FOODS SA.",
+          "ANN ARBOR FOODS  S.A."
+        ],
+        "to": "ANN  ARBOR  FOODS  S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "A.M.G.  LTDA.",
+          "A.M.G. LTDA.",
+          "AMG LTDA",
+          "AMG LTDA."
+        ],
+        "to": "A.M.G.  LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALAMO TELEFONIA LTDA.",
+          "ALAMO TELEFONIA LTDA",
+          "ALAMO TELEFONIA LTDA.-",
+          "ALAMO TELEFONIA  LTDA"
+        ],
+        "to": "ALAMO TELEFONIA LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADT SECURITY SERVICES S.A",
+          "ADT SECURITY SERVICES S.A.",
+          "ADT SECURITY SERVICES SA"
+        ],
+        "to": "ADT SECURITY SERVICES S.A"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALARMATIC S.A.",
+          "ALARMATIC SA",
+          "ALARMATIC S..A."
+        ],
+        "to": "ALARMATIC S.A."
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Emp. Razon Social",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Emp. Razon Social",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AUTOMOTORES GILDEMEISTER  S.A.",
+          "AUTOMOTORES GILDEMEISTER S.A.",
+          "AUTOMOTORES GILDEMEISTER SA"
+        ],
+        "to": "AUTOMOTORES GILDEMEISTER  S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALCAINO Y ARAYA LTDA",
+          "ALCAINO Y ARAYA LTDA.",
+          "ALCAINO  Y ARAYA   LTDA"
+        ],
+        "to": "ALCAINO Y ARAYA LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADECCO EST S.A.",
+          "ADECCO E.S.T. S.A.",
+          "ADECCO EST S.A"
+        ],
+        "to": "ADECCO EST S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ASEO, MANTENCION Y GUARDIAS LTDA.",
+          "ASEO MANTENCION Y GUARDIAS LTDA.",
+          "ASEO, MANTENCIÓN Y GUARDIAS LTDA."
+        ],
+        "to": "ASEO, MANTENCION Y GUARDIAS LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ARQUITECTURA Y CONSTRUCCION ESFERA GROUP LTDA.",
+          "ARQUITECTURA Y CONSTRUCCION ESFERA GROUP  LTDA.",
+          "ARQUITECTURA Y CONSTRUCCION ESFERA GROUP LTDA"
+        ],
+        "to": "ARQUITECTURA Y CONSTRUCCION ESFERA GROUP LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ANFRUNS Y CIA LTDA",
+          "ANFRUNS Y CIA. LTDA.",
+          "ANFRUNS Y CÍA. LTDA."
+        ],
+        "to": "ANFRUNS Y CIA LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AREAS S.A. CHILE LTDA.",
+          "AREAS S.A CHILE LTDA.",
+          "AREAS SA CHILE LTDA"
+        ],
+        "to": "AREAS S.A. CHILE LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADECCO SERVICIOS EMPRESARIALES S.A.",
+          "ADECCO  SERVICIOS  EMPRESARIALES  S.A.",
+          "ADECCO SERVICIOS EMPRESARIALES S.A"
+        ],
+        "to": "ADECCO SERVICIOS EMPRESARIALES S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGRICOLA SANTA CARMEN LTDA",
+          "AGRICOLA SANTA CARMEN LTDA.",
+          "AGRÍCOLA SANTA CARMEN LTDA."
+        ],
+        "to": "AGRICOLA SANTA CARMEN LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "A.L.S.  PATAGONIA   S.A.",
+          "ALS  PATAGONIA  S.A.",
+          "ALS PATAGONIA S.A."
+        ],
+        "to": "A.L.S.  PATAGONIA   S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALICOPSA S.A.",
+          "ALICOPSA S.A",
+          "ALICOPSA SA"
+        ],
+        "to": "ALICOPSA S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ASPROIN  LTDA.",
+          "ASPROIN LTDA",
+          "ASPROIN LTDA."
+        ],
+        "to": "ASPROIN  LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALIMENTOS FRUNA LTDA",
+          "ALIMENTOS FRUNA LTDA.",
+          "ALIMENTOS  FRUNA  LTDA-"
+        ],
+        "to": "ALIMENTOS FRUNA LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALFA CHILE S.A.",
+          "ALFA CHILE S,A,",
+          "ALFA  CHILE  S.A."
+        ],
+        "to": "ALFA CHILE S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AUTOMOTRIZ  CIDEF  S.A.",
+          "AUTOMOTRIZ CIDEF S.A",
+          "AUTOMOTRIZ CIDEF S.A."
+        ],
+        "to": "AUTOMOTRIZ  CIDEF  S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALIMENTOS  ANTUCO  LTDA",
+          "ALIMENTOS ANTUCO LTDA",
+          "ALIMENTOS ANTUCO LTDA."
+        ],
+        "to": "ALIMENTOS  ANTUCO  LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALIMENTOS FABAL S.A.",
+          "ALIMENTOS  FABAL  S.A."
+        ],
+        "to": "ALIMENTOS FABAL S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ASTER  CHILE  LTDA",
+          "ASTER CHILE LTDA."
+        ],
+        "to": "ASTER  CHILE  LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGRICOLA MANANTIALES LTDA.",
+          "AGRICOLA MANANTIALES LTDA"
+        ],
+        "to": "AGRICOLA MANANTIALES LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGRICOLA Y GANADERA S.A.",
+          "AGRICOLA Y GANADERA S.A"
+        ],
+        "to": "AGRICOLA Y GANADERA S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "APG SERVICIOS LIMITADA",
+          "APG. SERVICIOS LIMITADA"
+        ],
+        "to": "APG SERVICIOS LIMITADA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AQUAMONTT S.A.",
+          "AQUAMONTT S.A"
+        ],
+        "to": "AQUAMONTT S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADECCO RECURSOS HUMANOS S.A.",
+          "ADECCO RECURSOS HUMANOS S,A,"
+        ],
+        "to": "ADECCO RECURSOS HUMANOS S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALSACIA S.A.",
+          "ALSACIA S.A"
+        ],
+        "to": "ALSACIA S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ARAVENA Y ARAVENA LTDA.",
+          "ARAVENA Y ARAVENA LTDA.-"
+        ],
+        "to": "ARAVENA Y ARAVENA LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGRICOLA NOVA S.A.",
+          "AGRICOLA NOVA   S.A."
+        ],
+        "to": "AGRICOLA NOVA S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALTRA S.A.",
+          "ALTRA SA"
+        ],
+        "to": "ALTRA S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADMINISTRADORA DE EMPRESAS MAULE SUR S.A.",
+          "ADMINISTRADORA DE EMPRESAS DE MAULE SUR S.A."
+        ],
+        "to": "ADMINISTRADORA DE EMPRESAS MAULE SUR S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AFP PROVIDA S.A.",
+          "AFP PROVIDA S.A"
+        ],
+        "to": "AFP PROVIDA S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALIMENTOS LA CREME LTDA",
+          "ALIMENTOS LA CREME LTDA."
+        ],
+        "to": "ALIMENTOS LA CREME LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ARRENDAMIENTO DE EQUIPOS BESALCO LTDA",
+          "ARRENDAMIENTO DE EQUIPOS BESALCO LTDA."
+        ],
+        "to": "ARRENDAMIENTO DE EQUIPOS BESALCO LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADMINISTRADORA DE RESTORANTES DELCO SA.",
+          "ADMINISTRADORA DE RESTORANTES DELCO S.A"
+        ],
+        "to": "ADMINISTRADORA DE RESTORANTES DELCO SA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGRICOLA SAN JOSÉ DE PERALILLO",
+          "AGRICOLA SAN JOSE DE PERALILLO"
+        ],
+        "to": "AGRICOLA SAN JOSÉ DE PERALILLO"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALIMENTOS V&M LTDA",
+          "ALIMENTOS V&M LTDA."
+        ],
+        "to": "ALIMENTOS V&M LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALIMENTOS LA FABRICA LTDA",
+          "ALIMENTOS LA FABRICA LTDA."
+        ],
+        "to": "ALIMENTOS LA FABRICA LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AUTOPISTA DEL MAIPO SOCIEDAD CONCESIONARIA S.A",
+          "AUTOPISTA DEL MAIPO SOCIEDAD CONCESIONARIA S.A."
+        ],
+        "to": "AUTOPISTA DEL MAIPO SOCIEDAD CONCESIONARIA S.A"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGRICOLA DEL NORTE S.-A.",
+          "AGRICOLA DEL NORTE S.A."
+        ],
+        "to": "AGRICOLA DEL NORTE S.-A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGRICOLA TAMARUGO LTDA.",
+          "AGRÍCOLA TAMARUGO LTDA."
+        ],
+        "to": "AGRICOLA TAMARUGO LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ASESORÍAS SISTEMAS DE SEGURIDAD Y SERVICIOS LTDA.",
+          "ASESORIAS SISTEMAS DE SEGURIDAD Y SERVICIOS LTDA."
+        ],
+        "to": "ASESORÍAS SISTEMAS DE SEGURIDAD Y SERVICIOS LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ABAD GARCIA Y PONS LTDA",
+          "ABAD GARCIA Y PONS LTDA."
+        ],
+        "to": "ABAD GARCIA Y PONS LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ANDROS SERVICIOS LTDA",
+          "ANDROS SERVICIOS LTDA."
+        ],
+        "to": "ANDROS SERVICIOS LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALDO RAZETO Y CÍA LTDA",
+          "ALDO RAZETO Y CIA. LTDA."
+        ],
+        "to": "ALDO RAZETO Y CÍA LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALIMENTOS  POMONA S.A.",
+          "ALIMENTOS POMONA  SA"
+        ],
+        "to": "ALIMENTOS  POMONA S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALFA CHILE SEGURIDAD LTDA.",
+          "ALFA CHILE SEGURIDAD LTDA"
+        ],
+        "to": "ALFA CHILE SEGURIDAD LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AUSTRAL STORE LTDA",
+          "AUSTRAL STORE LTDA."
+        ],
+        "to": "AUSTRAL STORE LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ASESORIAS Y SERVICIOS EPOCA LTDA.",
+          "ASESORIAS Y SERVICIOS EPOCA LTDA"
+        ],
+        "to": "ASESORIAS Y SERVICIOS EPOCA LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGRO-GANADERA CARDAL LTDA",
+          "AGRO-GANADERA CARDAL LTDA."
+        ],
+        "to": "AGRO-GANADERA CARDAL LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ASEO PROFESIONAL INDUSTRIAL LTDA.",
+          "ASEO PROFESIONAL INDUSTRIAL LTDA.-"
+        ],
+        "to": "ASEO PROFESIONAL INDUSTRIAL LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "APPLUS CHILE S.A",
+          "APPLUS CHILE S.A."
+        ],
+        "to": "APPLUS CHILE S.A"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ABARROTES ECONOMICOS",
+          "ABARROTES  ECONOMICOS"
+        ],
+        "to": "ABARROTES ECONOMICOS"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADMINISTRADORA PARQUE DEL MAR S.A",
+          "ADMINISTRADORA PARQUE DEL MAR S.A."
+        ],
+        "to": "ADMINISTRADORA PARQUE DEL MAR S.A"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADMINISTRADORA CASA GRANDE S.A",
+          "ADMINISTRADORA CASA GRANDE S.A."
+        ],
+        "to": "ADMINISTRADORA CASA GRANDE S.A"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALIMENTOS Y FRUTOS S.A.",
+          "ALIMENTOS Y FRUTOS  S.A."
+        ],
+        "to": "ALIMENTOS Y FRUTOS S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADMINISTRADORA NORTE LTDA.",
+          "ADMINISTRADORA  NORTE LTDA."
+        ],
+        "to": "ADMINISTRADORA NORTE LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGUILAS DEL NORTE LTDA.",
+          "AGUILAS DEL NORTE LTDA"
+        ],
+        "to": "AGUILAS DEL NORTE LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADMINISTRADORA DE ESTACIONES DE SERVICIOS SERCO LTDA",
+          "ADMINISTRADORA DE ESTACIONES DE SERVICIOS SERCO LTDA."
+        ],
+        "to": "ADMINISTRADORA DE ESTACIONES DE SERVICIOS SERCO LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADMINISTRADORA DE VENTAS AL DETALLE LTDA.",
+          "ADMINISTRADORA DE VENTAS AL DETALLE LTDA"
+        ],
+        "to": "ADMINISTRADORA DE VENTAS AL DETALLE LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "A.E.S. GENER S.A.",
+          "AES GENER S.A."
+        ],
+        "to": "A.E.S. GENER S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ARAMARK SERVICIOS MINEROS Y REMOTOS LTDA.",
+          "ARAMARK SERVICIOS MINEROS Y REMOTOS LTDA"
+        ],
+        "to": "ARAMARK SERVICIOS MINEROS Y REMOTOS LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ACOGER SANTIAGO FUTURO S.A.",
+          "ACOGER  SANTIAGO   FUTURO   S.A."
+        ],
+        "to": "ACOGER SANTIAGO FUTURO S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ANALISIS Y SERVICIOS S.A.",
+          "ANÁLISIS Y SERVICIOS S.A."
+        ],
+        "to": "ANALISIS Y SERVICIOS S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AVILA REYES HECTOR",
+          "AVILA REYES, HECTOR"
+        ],
+        "to": "AVILA REYES HECTOR"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "A.F.P. HABITAT S.A.",
+          "AFP HABITAT S.A."
+        ],
+        "to": "A.F.P. HABITAT S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALCALDE FORMULARIOS CONTINUOS LTDA.",
+          "ALCALDE FORMULARIOS CONTINUOS LTDA"
+        ],
+        "to": "ALCALDE FORMULARIOS CONTINUOS LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ASEOS INDUSTRIALES CASINO LTDA.",
+          "ASEOS  INDUSTRIALES  CASINO  LTDA"
+        ],
+        "to": "ASEOS INDUSTRIALES CASINO LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ARAMARK MULTISERVICIOS LTDA.",
+          "ARAMARK MULTISERVICIOS LTDA"
+        ],
+        "to": "ARAMARK MULTISERVICIOS LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALIMENTOS DULCE LUNA LTDA",
+          "ALIMENTOS DULCE LUNA LTDA."
+        ],
+        "to": "ALIMENTOS DULCE LUNA LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ASOCIACIÓN CHILENA  DE SEGURIDAD",
+          "ASOCIACION CHILENA DE SEGURIDAD"
+        ],
+        "to": "ASOCIACIÓN CHILENA  DE SEGURIDAD"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AFP. PLANVITAL S.A.",
+          "AFP PLANVITAL S.A."
+        ],
+        "to": "AFP. PLANVITAL S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AFP  HABITAT",
+          "AFP HABITAT"
+        ],
+        "to": "AFP  HABITAT"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ASESORIAS Y SERV EPOCA LTDA",
+          "ASESORIAS Y SERV. EPOCA LTDA"
+        ],
+        "to": "ASESORIAS Y SERV EPOCA LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGRO TANTEHUE LTDA",
+          "AGRO TANTEHUE LTDA."
+        ],
+        "to": "AGRO TANTEHUE LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGRICOLA  ALSACIA   S.A",
+          "AGRICOLA ALSACIA S.A."
+        ],
+        "to": "AGRICOLA  ALSACIA   S.A"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ARCOS DORADOS RESTAURANTES DE CHILE LTDA.",
+          "ARCOS DORADOS RESTAURANTES DE CHILE LTDA"
+        ],
+        "to": "ARCOS DORADOS RESTAURANTES DE CHILE LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADMINISTRADORA DE RESTAURANTES KAPCHI S.A.",
+          "ADMINISTRADORA DE RESTAURANTES KAPCHI S.A"
+        ],
+        "to": "ADMINISTRADORA DE RESTAURANTES KAPCHI S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGENCIA DE SERVICIOS PROMOCIONALES RADEBI  LTDA.",
+          "AGENCIA DE SERVICIOS PROMOCIONALES RADEBI LTDA."
+        ],
+        "to": "AGENCIA DE SERVICIOS PROMOCIONALES RADEBI  LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGRICOLA AGROMOBA LTDA.",
+          "AGRICOLA AGROMOBA LTDA"
+        ],
+        "to": "AGRICOLA AGROMOBA LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGRICOLA ARIZTIA LTDA",
+          "AGRICOLA ARIZTIA LTDA."
+        ],
+        "to": "AGRICOLA ARIZTIA LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALVAREZ RECURSOS HUMANOS LTDA.",
+          "ALVAREZ RECURSOS HUMANOS LTDA"
+        ],
+        "to": "ALVAREZ RECURSOS HUMANOS LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADMINISTRADORA DE SERVICIOS ARAUCO LTDA.",
+          "ADMINISTRADORA DE SERVICIOS ARAUCO LTDA"
+        ],
+        "to": "ADMINISTRADORA DE SERVICIOS ARAUCO LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ARCOS DE VIÑA S.A.",
+          "ARCOS DE VIÑA S.A"
+        ],
+        "to": "ARCOS DE VIÑA S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGUA SODA LOURDES LTDA",
+          "AGUA SODA LOURDES LTDA."
+        ],
+        "to": "AGUA SODA LOURDES LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADMINISTRACION Y SERVICIOS LTDA",
+          "ADMINISTRACION Y SERVICIOS LTDA."
+        ],
+        "to": "ADMINISTRACION Y SERVICIOS LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ARMAMIT LTDA",
+          "ARMAMIT LTDA."
+        ],
+        "to": "ARMAMIT LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGENCY S.A.",
+          "AGENCY S.A"
+        ],
+        "to": "AGENCY S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ARMENIA AGRICOLA LTDA",
+          "ARMENIA AGRICOLA LTDA."
+        ],
+        "to": "ARMENIA AGRICOLA LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AUTOMOTRIZ  BALMACEDA LTDA",
+          "AUTOMOTRIZ BALMACEDA  LTDA."
+        ],
+        "to": "AUTOMOTRIZ  BALMACEDA LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADELCO LTDA.",
+          "ADELCO LTDA"
+        ],
+        "to": "ADELCO LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGRISAN LTDA.",
+          "AGRISAN LTDA"
+        ],
+        "to": "AGRISAN LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "A.F.P. CAPITAL S.A.",
+          "AFP CAPITAL S.A."
+        ],
+        "to": "A.F.P. CAPITAL S.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADMINISTRADORA DE NAVES HUMBOLDT LTDA.",
+          "ADMINISTRADORA DE NAVES HUMBOLDT LTDA"
+        ],
+        "to": "ADMINISTRADORA DE NAVES HUMBOLDT LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALEJANDRO GARAY Y CIA LTDA",
+          "ALEJANDRO GARAY Y CIA. LTDA."
+        ],
+        "to": "ALEJANDRO GARAY Y CIA LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ARANCIBIA SEGURIDAD Y SERVICIOS LTDA.",
+          "ARANCIBIA SEGURIDAD Y SERVICIOS LTDA ."
+        ],
+        "to": "ARANCIBIA SEGURIDAD Y SERVICIOS LTDA."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADIDAS CHILE LTDA",
+          "ADIDAS CHILE LTDA."
+        ],
+        "to": "ADIDAS CHILE LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ANTONIO HERNANDEZ NARANJO E.I.R.L.",
+          "ANTONIO HERNÁNDEZ NARANJO E.I.R.L."
+        ],
+        "to": "ANTONIO HERNANDEZ NARANJO E.I.R.L."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ANA ROSA ESCARATE VALENZUELA",
+          "ANA ROSA ESCÁRATE VALENZUELA"
+        ],
+        "to": "ANA ROSA ESCARATE VALENZUELA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ARTEMIO SÁEZ VALDERRAMA",
+          "ARTEMIO SAEZ  VALDERRAMA"
+        ],
+        "to": "ARTEMIO SÁEZ VALDERRAMA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ASCENSORES Y ESCALAS MECANICAS LTDA",
+          "ASCENSORES Y ESCALAS MECÁNICAS LTDA."
+        ],
+        "to": "ASCENSORES Y ESCALAS MECANICAS LTDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ASESORIAS Y SERVICIOS VIEN LTDA",
+          "ASESORIAS Y SERVICIOS VIEN LTDA."
+        ],
+        "to": "ASESORIAS Y SERVICIOS VIEN LTDA"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Glosa",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "Glosa",
+          "omitBlank": false,
+          "columnName": "Glosa",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Higiene y Seguridad Aviso Mutuales",
+                "l": "Higiene y Seguridad Aviso Mutuales"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Glosa",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Higiene y Seguridad Aviso Mutuales"
+        ],
+        "to": "Higiene y Seguridad"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Enunciado",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Enunciado",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "No llevar correctamente registro de asistencia y determinación de las horas de trabajo (según lo autorizado por la Dirección del Trabajo) - (por tener borrones y enmendaduras)- (por las manifiestas adulteraciones).",
+          "No llevar correctamente registro de asistencia y determinación de las horas de trabajo (según lo autorizado por la Dirección del Trabajo) - (por tener borrones y enmendaduras)- (por las manifiestas adulteraciones)"
+        ],
+        "to": "No llevar correctamente registro de asistencia y determinación de las horas de trabajo (según lo autorizado por la Dirección del Trabajo) - (por tener borrones y enmendaduras)- (por las manifiestas adulteraciones)."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "No declarar oportunamente las cotizaciones previsionales del Seguro de Cesantía.",
+          "No declarar oportunamente las cotizaciones previsionales del Seguro de Cesantía;"
+        ],
+        "to": "No declarar oportunamente las cotizaciones previsionales del Seguro de Cesantía."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "No otorgar beneficio de sala cuna a trabajadoras de establecimiento.",
+          "No otorgar beneficio de sala cuna a trabajadoras de establecimiento.."
+        ],
+        "to": "No otorgar beneficio de sala cuna a trabajadoras de establecimiento."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "No otorgar permiso de a lo menos una hora para alimentar al menor de dos años.",
+          "No otorgar permiso de a lo menos una hora  para alimentar al menor de dos años.   "
+        ],
+        "to": "No otorgar permiso de a lo menos una hora para alimentar al menor de dos años."
+      }
+    ]
+  }
+]
